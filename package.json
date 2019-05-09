@@ -1,6 +1,6 @@
 {
   "name": "stupid-react-pagination",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Simple React Pagination",
   "main": "index.js",
   "scripts": {

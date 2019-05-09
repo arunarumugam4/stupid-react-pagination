@@ -31,7 +31,7 @@ class App extends Component {
 
 export default App {}
 ```
-## PROP
+## PROPS
 ```
   activePage => current active page to highlight (ex: 1 or 2 or 3..)
   size => total list OF items to show on single page (ex: 10 or 20 or 30 ..)
