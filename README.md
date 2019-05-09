@@ -36,6 +36,6 @@ export default App {}
   activePage => current active page to highlight (ex: 1 or 2 or 3..)
   size => total list items to show on single page (ex: 10 or 20 or 30 ..)
   totalItems => toatal size of your list (ex: 30 or 40 or 100 ..)
-  handlePagination => handlePagination callback function get called with the selected page number
+  handlePagination => handlePagination callback function get called with the selected page number.
   
  ```
